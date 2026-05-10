@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-05-10](./reports/report_2026-05-10.md) | Teaching Claude why、TAC & GPT‑5.5‑Cyber、文心 5.1、LLM-in-Sandbox、Codex 安全治理 | 对齐推理泛化 / 防御者分层授权 / 异步 Agentic RL / 沙箱激发通用智能 / OTel 与审批 |
 | [2026-05-08](./reports/report_2026-05-08.md) | NLA 可解释性、Realtime Voice API、Trusted Contact、CAISI 预发布评测 | 激活文本化重建 / GPT‑Realtime‑2·Translate·Whisper / 危机可信联系人 / 五大实验室自愿评测 |
 | [2026-05-07](./reports/report_2026-05-07.md) | SpaceX 算力与 Claude 限额、MRC 训练网络、Gemini 多模态 RAG、B2B Signals | Colossus 1 / OCP MRC / File Search 页级引用 / Codex 16× 差距 |
 | [2026-05-06](./reports/report_2026-05-06.md) | 语音 WebRTC 工程、金融 Agent、企业 AI 合资公司、Mistral 云端 Agent | GPT‑5.5 Instant / Anthropic×PE 交付实体 / Medium 3.5 远程会话 |
