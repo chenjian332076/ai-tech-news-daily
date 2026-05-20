@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-05-20](./reports/report_2026-05-20.md) | Karpathy 加盟 Anthropic、五角大楼诉讼、内容溯源、ELF/Attractor、Parameter Golf | 预训练人才战 / DOD 供应链风险庭审 / C2PA+SynthID / 扩散与不动点架构 / Agent 驱动 ML 竞赛 |
 | [2026-05-19](./reports/report_2026-05-19.md) | DeployCo、2028 地缘情景、ChatGPT 理财、Codex 全栈、Composer 2.5、Stainless | FDE 部署单元 / 算力管制政策 / Plaid 金融 / 移动+Windows+Dell / Agent 编码模型 / MCP 基础设施 |
 | [2026-05-10](./reports/report_2026-05-10.md) | Teaching Claude why、TAC & GPT‑5.5‑Cyber、文心 5.1、LLM-in-Sandbox、Codex 安全治理 | 对齐推理泛化 / 防御者分层授权 / 异步 Agentic RL / 沙箱激发通用智能 / OTel 与审批 |
 | [2026-05-08](./reports/report_2026-05-08.md) | NLA 可解释性、Realtime Voice API、Trusted Contact、CAISI 预发布评测 | 激活文本化重建 / GPT‑Realtime‑2·Translate·Whisper / 危机可信联系人 / 五大实验室自愿评测 |
