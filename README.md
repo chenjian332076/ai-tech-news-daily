@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-05-25](./reports/report_2026-05-25.md) | Glasswing 战报、Mythos exploit 评测、LLM 自复制、Nemotron DLM、AutoTTS、SLEIGHT-Bench | 1 万洞 vs 75 补丁 / V8 21 ACE / 33% 链式复制 / 6.4× TPF / $40 TTS 发现 |
 | [2026-05-22](./reports/report_2026-05-22.md) | Meta 裁员、Musk 败诉、AIRA、δ-mem、ADK 2.0、Grok Build、招聘 AI 化 | 8k 裁员换 AI capex / 诉讼时效 / Agent 自主 NAS / 8×8 记忆 / 多 Agent GA |
 | [2026-05-21](./reports/report_2026-05-21.md) | Erdős 几何证明、Gemini 3.5、Qwen3.7-Max、PopuLoRA、Pydantic AI v2、Agent Executor | AI 数学里程碑 / Flash+Spark / 35h 内核 Agent / 种群 RLVR / Harness 运行时 |
 | [2026-05-20](./reports/report_2026-05-20.md) | Karpathy 加盟 Anthropic、五角大楼诉讼、内容溯源、ELF/Attractor、Parameter Golf | 预训练人才战 / DOD 供应链风险庭审 / C2PA+SynthID / 扩散与不动点架构 / Agent 驱动 ML 竞赛 |
