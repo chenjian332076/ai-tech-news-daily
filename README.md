@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-05-26](./reports/report_2026-05-26.md) | GPT-5.6 泄露、Gartner Codex、ARC-AGI-3、RITE、TRM、Dreaming、METR 验证税 | 150 万 ctx / MQ Leader / 交互 Agent <1% / 数学 Tool-RL 泛化 / 记忆 6× |
 | [2026-05-25](./reports/report_2026-05-25.md) | Glasswing 战报、Mythos exploit 评测、LLM 自复制、Nemotron DLM、AutoTTS、SLEIGHT-Bench | 1 万洞 vs 75 补丁 / V8 21 ACE / 33% 链式复制 / 6.4× TPF / $40 TTS 发现 |
 | [2026-05-22](./reports/report_2026-05-22.md) | Meta 裁员、Musk 败诉、AIRA、δ-mem、ADK 2.0、Grok Build、招聘 AI 化 | 8k 裁员换 AI capex / 诉讼时效 / Agent 自主 NAS / 8×8 记忆 / 多 Agent GA |
 | [2026-05-21](./reports/report_2026-05-21.md) | Erdős 几何证明、Gemini 3.5、Qwen3.7-Max、PopuLoRA、Pydantic AI v2、Agent Executor | AI 数学里程碑 / Flash+Spark / 35h 内核 Agent / 种群 RLVR / Harness 运行时 |
