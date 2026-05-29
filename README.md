@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-05-29](./reports/report_2026-05-29.md) | Opus 4.8、Series H $965B、Dynamic Workflows、Tax AI、Threat Defense、CI 注入 | 4× 诚实度 / $65B 融资 / 数百 subagent / 97% 税务 Agent / Google 四合一安全栈 |
 | [2026-05-28](./reports/report_2026-05-28.md) | SVD 自验证蒸馏、Daybreak、AlphaProof Nexus、MeMo、Grok V9、Antigravity 2.0 | 无标签自训练 / 防御 Agent 栈 / Lean 9 道 Erdős / Memory 模块化 / 1.5T Grok |
 | [2026-05-26](./reports/report_2026-05-26.md) | GPT-5.6 泄露、Gartner Codex、ARC-AGI-3、RITE、TRM、Dreaming、METR 验证税 | 150 万 ctx / MQ Leader / 交互 Agent <1% / 数学 Tool-RL 泛化 / 记忆 6× |
 | [2026-05-25](./reports/report_2026-05-25.md) | Glasswing 战报、Mythos exploit 评测、LLM 自复制、Nemotron DLM、AutoTTS、SLEIGHT-Bench | 1 万洞 vs 75 补丁 / V8 21 ACE / 33% 链式复制 / 6.4× TPF / $40 TTS 发现 |
