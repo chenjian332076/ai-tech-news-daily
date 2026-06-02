@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-06-02](./reports/report_2026-06-02.md) | Build Day 1、Polaris、Anthropic S-1、OpenAI AWS GA、Cosmos 3、Gecko | Project Polaris / S-1 IPO / Codex Bedrock / 物理 AI 世界模型 / 400 万 ctx |
 | [2026-06-01](./reports/report_2026-06-01.md) | Copilot AI Credits、Build 2026、Lacuna、SNLP、FIDES、Eval Playbook | 6/1 用量计费 / Windows Agent Runtime / 类型化 Agent 洞 / 层并行 2.3× / IFC 防御 |
 | [2026-05-31](./reports/report_2026-05-31.md) | SFA、MSA 亿级记忆、RePlaid、Cola DLM、Rosalind、ElectrolyteGPT、EAGLE 3.1 | 特征稀疏 2.5× / 100M token / 连续扩散 20× / fLine 配方 / 生物防御 / 推测解码 |
 | [2026-05-29](./reports/report_2026-05-29.md) | Opus 4.8、Series H $965B、Dynamic Workflows、Tax AI、Threat Defense、CI 注入 | 4× 诚实度 / $65B 融资 / 数百 subagent / 97% 税务 Agent / Google 四合一安全栈 |
