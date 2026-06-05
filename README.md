@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-06-05](./reports/report_2026-06-05.md) | Dreaming V3、Gemma 4 12B、MiniMax M3、Scout/ASSERT、Altman 国会游说 | ChatGPT 记忆三代 / encoder-free 本地 Agent / MSA 1M ctx / Autopilot 品类 / testing vs gate |
 | [2026-06-04](./reports/report_2026-06-04.md) | GPT-Rosalind 升级、Partner Services Track、MITRE 威胁映射、Copilot App、Foundry Toolboxes | LifeSciBench / SI 三级认证 / ATT&CK 缺口 / Agent Merge / MCP 工具 bundle |
 | [2026-06-03](./reports/report_2026-06-03.md) | Codex Sites、Trump AI EO、Glasswing 扩展、Stargate Michigan、MAI-Thinking-1 | 知识工作 OS / 30 天自愿审查 / 150 组织 Mythos / 1GW 破土 / 自研推理 MoE |
 | [2026-06-02](./reports/report_2026-06-02.md) | Build Day 1、Polaris、Anthropic S-1、OpenAI AWS GA、Cosmos 3、Gecko | Project Polaris / S-1 IPO / Codex Bedrock / 物理 AI 世界模型 / 400 万 ctx |
