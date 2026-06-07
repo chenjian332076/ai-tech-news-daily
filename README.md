@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-06-07](./reports/report_2026-06-07.md) | Claude Code CI 漏洞、LegoNE、GrandCode、HyperAgents、Lockdown Mode | GitHub Action 凭证窃取 / Nash 0.5+δ / Codeforces 三连冠 / 跨域 RSI / 1GB Gemma QAT |
 | [2026-06-06](./reports/report_2026-06-06.md) | Great American AI Act、RSI 暂停、Nemotron 3 Ultra、Claude 化学家、Frontier Blueprint | 269 页联邦草案 / 80% AI 写码 / 550B Agent 编排 / NMR 超越 ChemDraw / CAISI eval≠gate |
 | [2026-06-05](./reports/report_2026-06-05.md) | Dreaming V3、Gemma 4 12B、MiniMax M3、Scout/ASSERT、Altman 国会游说 | ChatGPT 记忆三代 / encoder-free 本地 Agent / MSA 1M ctx / Autopilot 品类 / testing vs gate |
 | [2026-06-04](./reports/report_2026-06-04.md) | GPT-Rosalind 升级、Partner Services Track、MITRE 威胁映射、Copilot App、Foundry Toolboxes | LifeSciBench / SI 三级认证 / ATT&CK 缺口 / Agent Merge / MCP 工具 bundle |
