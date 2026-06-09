@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-06-09](./reports/report_2026-06-09.md) | OpenAI Phase 3、S-1 提交、Extensions API、AMC 黑盒 RL、Meta 知识引擎 | 2028 自动化研究 / 万亿 IPO 窗口 / 1.4B 设备分发 / test-time SMC / context 5%→100% |
 | [2026-06-08](./reports/report_2026-06-08.md) | WWDC Siri 重建、Gemini for Science、Outcomes/Orchestration、Reasoning η、合规倒计时 | Gemini 1.2T Siri / Claude iPhone 选项 / ERA Nature / Managed Agents 自验证 / Colorado 22 天 |
 | [2026-06-07](./reports/report_2026-06-07.md) | Claude Code CI 漏洞、LegoNE、GrandCode、HyperAgents、Lockdown Mode | GitHub Action 凭证窃取 / Nash 0.5+δ / Codeforces 三连冠 / 跨域 RSI / 1GB Gemma QAT |
 | [2026-06-06](./reports/report_2026-06-06.md) | Great American AI Act、RSI 暂停、Nemotron 3 Ultra、Claude 化学家、Frontier Blueprint | 269 页联邦草案 / 80% AI 写码 / 550B Agent 编排 / NMR 超越 ChemDraw / CAISI eval≠gate |
