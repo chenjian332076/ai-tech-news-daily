@@ -26,6 +26,8 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-06-23](./reports/report_2026-06-23.md) | Daybreak Patch the Planet、Record & Replay、Samsung 部署、AMIE、HydraHead/LED/LCLM | 补丁 throughput / 演示→skill / 史上最大 enterprise / 疾病管理 Nature / head 级混合注意力 |
+| [2026-06-19](./reports/report_2026-06-19.md) | Fable 全球下架、SpaceX $85.7B IPO、N-day N-hour、eve/Harness/Omnigent、Project Fetch | 出口管制 precedent / SPCX $2.1T / patch gap 小时级 / Meta-Harness 治理 / 机器人 37× |
 | [2026-06-10](./reports/report_2026-06-10.md) | Fable 5/Mythos 5、LightningLM 120B、Search as Code、SpaceX 定价前夜、JAMEL | Mythos-class 降级安全 / 单节点 120B MoE / -85% 搜索 token / $62.8B 预承诺 / 新颖性潜记忆 |
 | [2026-06-09](./reports/report_2026-06-09.md) | OpenAI Phase 3、S-1 提交、Extensions API、AMC 黑盒 RL、Meta 知识引擎 | 2028 自动化研究 / 万亿 IPO 窗口 / 1.4B 设备分发 / test-time SMC / context 5%→100% |
 | [2026-06-08](./reports/report_2026-06-08.md) | WWDC Siri 重建、Gemini for Science、Outcomes/Orchestration、Reasoning η、合规倒计时 | Gemini 1.2T Siri / Claude iPhone 选项 / ERA Nature / Managed Agents 自验证 / Colorado 22 天 |
